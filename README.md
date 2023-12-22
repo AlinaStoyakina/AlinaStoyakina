@@ -11,14 +11,14 @@
 
 ---
 
-## Проекты
+### 🌟Проекты
 
-* [Тестирование личного кабинета Skyeng](https://drive.google.com/drive/folders/14nT4HcBLHHkO0Eh7A5KaOxrtdBwhANEm)
-* [SQL](https://drive.google.com/drive/folders/1UicCh8VrOYo-vlrCrvPoNwd-E2hE2DsW)
-* [Коллекция](https://drive.google.com/drive/folders/1ACAtdt3eAnwqgIY2urpxSoQ3rgEfdytQ)
+*  📌[Тестирование личного кабинета Skyeng](https://drive.google.com/drive/folders/14nT4HcBLHHkO0Eh7A5KaOxrtdBwhANEm)
+*  📌[SQL](https://drive.google.com/drive/folders/1UicCh8VrOYo-vlrCrvPoNwd-E2hE2DsW)
+*  📌[Коллекция](https://drive.google.com/drive/folders/1ACAtdt3eAnwqgIY2urpxSoQ3rgEfdytQ)
 
 ---
-## Сертификаты
+### 📚 Сертификаты
 
 * [Postman Для тестирования API](https://stepik.org/cert/2165538)
 
