@@ -6,34 +6,8 @@
 
 Я инженер по тестированию. Мой путь начался с онлайн школы Skypro. В ходе обучения помогала другим студентам справляться  со сложными  заданиями в качестве тьютора. Постоянно совершенствую свои навыки и знания. Я успешно завершила ряд профессиональных курсов по тестированию, тест-дизайну и методологиям разработки ПО. Кроме того, я активно изучаю специализированную литературу и участвую в вебинарах и конференциях, чтобы быть в курсе последних тенденций в области тестирования.  Я верю, что постоянное обучение и самосовершенствование являются ключевыми факторами для достижения успеха в области тестирования.
 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-fstoyakinaalina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlinaStoyakina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alinokz2008@gmail.com)
-- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- 📚 Все мои [курсы](https://artsiomrusau.com/courses)
-- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-stoyakinaalina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlinaStoyakina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alinokz2008@gmail.com)
 
----
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Bash для тестировщика &lpar;QA Engineer&rpar;. Полный курс](https://www.youtube.com/watch?v=CVJw3rCw_Qc)
-- [Разбор резюме тестировщиков с хедхантера](https://www.youtube.com/watch?v=FnK379DsOsk)
-- [КАК ПРОЙТИ ИСПЫТАТЕЛЬНЫЙ СРОК?](https://www.youtube.com/watch?v=Gz3F48tc8nk)
-- [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
-- [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
-<!-- YOUTUBE:END -->
 
 ---
 
@@ -41,12 +15,9 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://chlist.sitechco.ru/img/logo1z.png" title="test-it" alt="sitechco" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+  </div>
 
 ---
 
