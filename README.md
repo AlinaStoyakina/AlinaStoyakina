@@ -28,7 +28,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://chlist.sitechco.ru/img/logo1z.png" title="test-it" alt="sitechco" width="80" height="40"/>&nbsp
+  <img src="https://chlist.sitechco.ru/img/logo1z.png" title="itechco" alt="sitechco" width="80" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   </div>
 
