@@ -13,9 +13,9 @@
 
 ### 🌟Проекты
 
-*  📌[Тестирование личного кабинета Skyeng](https://drive.google.com/drive/folders/14nT4HcBLHHkO0Eh7A5KaOxrtdBwhANEm)
-*  📌[SQL](https://drive.google.com/drive/folders/1UicCh8VrOYo-vlrCrvPoNwd-E2hE2DsW)
-*  📌[Коллекция](https://drive.google.com/drive/folders/1ACAtdt3eAnwqgIY2urpxSoQ3rgEfdytQ)
+ 📌[Тестирование личного кабинета Skyeng](https://drive.google.com/drive/folders/14nT4HcBLHHkO0Eh7A5KaOxrtdBwhANEm)
+ 📌[SQL](https://drive.google.com/drive/folders/1UicCh8VrOYo-vlrCrvPoNwd-E2hE2DsW)
+ 📌[Коллекция](https://drive.google.com/drive/folders/1ACAtdt3eAnwqgIY2urpxSoQ3rgEfdytQ)
 
 ---
 ### 📚 Сертификаты
@@ -28,7 +28,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://chlist.sitechco.ru/img/logo1z.png" title="test-it" alt="sitechco" width="80" height="40"/>&nbsp
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAElBMVEUAAADAwMAA//+AgIAAgID///+hfzWpAAAAAXRSTlMAQObYZgAAAPxJREFUKM9NUV3OwjAM68YFRmDv9Id3iL7vAMsNhsj9r4KdbrBUqlTLdtwkpaih5ikd6lpR+ffms+Hs7wufB85QTJcA2i0ARXVJlk4gYrzmlZRT6w4geAD1W7PLAqA3wJ3dVSdk7Ia1zf4yfaTTloGECxuP1lvY7Ct1jFkzERIICMWi9nSPbCnEK0LxgjLVdnb3srgLhc8ktPPrHQDd4WEK+Tt6NAFjVC0wiR5FLTPYHzSwiXg3MhoM2MOU0TkfmPhLo6YAzLemqvj+CCJM+qdz7KjWu59tVyRG+1+LxZ9j6uhj0gf96IuRfeq6r063RXz3HXMVPe5/yHlb7Ae2zUmW7/vaWgAAAABJRU5ErkJggg==" title="sitechco" alt="sitechco" width="80" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   </div>
 
