@@ -1,4 +1,4 @@
-# Привет, меня зовут Алина!
+# Привет, меня зовут Алина! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
 
 ---
 
